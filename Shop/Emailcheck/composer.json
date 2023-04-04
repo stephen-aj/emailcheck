@@ -1,0 +1,15 @@
+{
+    "name": "shop/emailcheck",
+    "description": "Avoide the email domain",
+    "type": "composer-plugin",
+    "require": {
+        "shop/emailcheck": "1.0.0"
+    },
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Roshan"
+        }
+    ],
+    "minimum-stability": "beta"
+}
